@@ -1,1 +1,6 @@
 @import "tailwindcss";
+
+@font-face {
+  font-family: logo;
+  src: url(/public/Fonts/SoDoSans-Black.ttf);
+}
